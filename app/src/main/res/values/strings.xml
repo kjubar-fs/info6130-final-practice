@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Practice</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="email_valid_format">Email must be a valid format</string>
+    <string name="invalid_credentials">Invalid email or password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_word">New Word</string>
+    <string name="add_word">Add Word</string>
+    <string name="random_word">Random</string>
+    <string name="delete_user_words">Delete My Words</string>
+    <string name="delete_all_words">Delete All Words</string>
+</resources>
